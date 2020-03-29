@@ -1,6 +1,6 @@
 # Gymondo Automation -   Shrikant Kalase 
 
-# Steup
+# Setup 
 1) Download and Install Android studio and android SDK 
 
 2) Download and Install eclipse IDE - JAVA from https://www.eclipse.org/downloads/ >> 
